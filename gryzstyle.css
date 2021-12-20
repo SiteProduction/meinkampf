@@ -1,0 +1,114 @@
+body {
+	background: url(img/gory.png);
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: top center;
+	background-attachment: fixed;
+
+}
+
+a {
+	color: #fff;
+	text-decoration: none;
+}
+
+.header {
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+	background: ;
+	color: #fff;
+	font-family: Uni Sans;
+}
+
+.header__section {
+	display: flex;
+	align-items: center;
+}
+
+.header__item {
+	padding: 10px 15px;
+	font-size: 20px;
+	margin-left: 5px;
+}
+
+.header__item:hover {
+	background-color: #49423d;
+	border-radius: 4px;
+	opacity: 50%;
+}
+
+.headerlogo {
+	font-weight: bold;
+}
+
+.headerButton {
+	cursor: pointer;
+}
+
+.mark {
+	font-family: Constantia;
+	padding: 20px;
+	
+}
+
+.blocktext {
+	margin-left: auto;
+    margin-right: auto;
+    width: 4em;
+    font-family: Lucida Calligraphy;
+    color: #F6F6F6;
+    font-size: 89px;
+    position: relative;
+    text-align: center;
+}
+
+div.container {
+	font-family: Lucida Calligraphy;
+	color: #F6F6F6;
+	text-align: center;
+}
+
+.blocktext__1 {
+	font-family: Lucida Calligraphy;
+	font-size: 50px;
+	color: #F6F6F6;
+	position: relative;
+	top: 40px;
+}
+
+.blocktext__3 {
+	font-family: Lucida Calligraphy;
+	font-size: 50px;
+	color: #F6F6F6;
+	position: relative;
+	top: 50px;
+}
+
+.blocktext__4 {
+	font-family: Lucida Calligraphy;
+	font-size: 50px;
+	color: #F6F6F6;
+	position: relative;
+	top: 80px;
+}
+
+.blocktext__5 {
+	font-family: Lucida Calligraphy;
+	font-size: 50px;
+	color: #F6F6F6;
+	position: relative;
+	top: 120px;
+}
+
+.border {
+	border: 1px white solid;
+}
+
+.blocktext__6 {
+	font-family: Lucida Calligraphy;
+	font-size: 50px;
+	color: #F6F6F6;
+	position: relative;
+	top: -15px;
+}
